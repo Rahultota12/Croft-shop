@@ -1,0 +1,378 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.color {
+  background-color: rgb(61, 98, 108);
+  color: white;
+}
+.color2 {
+  color: #3d626c;
+}
+.back-color {
+  font-family: "Open Sans", sans-serif;
+  background-color: rgb(246, 246, 246);
+}
+
+/* -===================== img card size========================== */
+.card-size {
+  height: 400px;
+}
+
+/*=============== font Brand style================= */
+
+.fonta {
+  font-family: "EB Garamond", serif;
+  font-size: 3.5rem;
+}
+/*==================================================== logo=================================================== */
+.navbar-brand {
+  font-size: 2rem;
+  font-family: "EB Garamond", serif;
+}
+.font-nav {
+  font-size: 1.2rem;
+  font-weight: 2.5rem;
+  font-family: "EB Garamond", serif;
+}
+
+.card0 {
+  background-image: linear-gradient(
+      rgb(61, 98, 108, 0.65),
+      rgb(61, 98, 108, 0.65)
+    ),
+    url("/mbr.jpg");
+  background-size: cover;
+  height: 90vh;
+}
+
+.car {
+  display: flex;
+  justify-content: start;
+  flex-direction: column;
+  align-items: start;
+  padding-top: 20vmax;
+}
+
+.card-body > h1 {
+  font-size: 2.7vmax;
+  align-items: start;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+/* =============================4 card================================= */
+
+.card1 {
+  background-color: rgb(215, 237, 216);
+}
+
+.card2 {
+  background-color: rgb(255, 243, 243);
+}
+
+.card3 {
+  background-color: rgb(234, 244, 248);
+}
+
+.card4 {
+  background-color: rgb(255, 243, 243);
+}
+
+/* ======================================card=========================================== */
+.card {
+  background-color: transparent;
+  border: none;
+  justify-content: space-between;
+}
+
+.align-left {
+  text-align: left;
+}
+.display-7 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.2rem;
+}
+
+/* <!-- =============================================Make Your Style Today 
+ ======================================================= --> */
+
+.card-3 {
+  background-color: rgb(255, 243, 243);
+}
+
+/* =========================3 imag================== */
+
+.card-show:hover {
+  box-shadow: 0px 26px 15px -12px #928e8e;
+}
+.card-img-overlay {
+  opacity: 0.7;
+  background-color: rgb(35, 35, 35);
+  color: white;
+  text-align: center;
+}
+.align1 {
+  text-align: right;
+}
+/* ========ICON========================= */
+.icon {
+  font-size: 6rem;
+  color: #3d626c;
+}
+.font-siz {
+  font-size: 1.5rem;
+  font-family: "Open Sans", sans-serif;
+  color: #3d626c;
+}
+/* ===============================2 write card========================= */
+.card-f {
+  font-family: "Open Sans", sans-serif;
+  background-color: rgb(246, 246, 246);
+  font-size: 1rem;
+}
+
+.lign {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+/* ===========4 collabse */
+.collapsed1:hover {
+  background-color: rgb(61, 98, 108);
+}
+.collapsed1 {
+  height: 70px;
+}
+.back-color1 {
+  background-color: rgb(246, 246, 246);
+}
+.collapsed {
+  font-size: 1.5rem;
+}
+/* ========= scrolling image======= */
+
+/* ===============  Sale Countdown!=========*/
+.sale {
+  font-size: 40px;
+}
+.sale1 {
+  font-size: 1rem;
+}
+
+/*================== 8 image ======================= */
+.im {
+  cursor: pointer;
+}
+
+/* ==============scroll=========== */
+
+.row h6 {
+  text-align: end;
+}
+.row p {
+  text-align: start;
+}
+/* =======footer========= */
+.foo {
+  background-color: rgb(61, 98, 108);
+  color: white;
+}
+.nav-item a {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 1rem;
+}
+.nav-item a:hover {
+  text-decoration: underline;
+}
+#sc {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.siz {
+  height: 200px;
+}
+.sizee {
+  height: 400px;
+}
+.dropdown-item:hover {
+  text-decoration: underline;
+}
+.fon {
+  background-color: white;
+}
+.lig {
+  text-align: left;
+}
+.i {
+  width: 100%;
+}
+.section4 {
+  background-image: url(./mbr.jpg);
+}
+
+.section4 .mbr-section-btn {
+  margin-top: 1.8rem;
+}
+
+.section4 .mbr-section-btn .btn {
+  color: #34535c;
+}
+.bac {
+  background-color: rgb(35, 35, 35);
+  opacity: 0.7;
+}
+
+.section4 .big {
+  align-items: center;
+
+  justify-content: center;
+
+  display: flex;
+}
+
+.section4 .big h4 {
+  margin: 0;
+}
+/* 
+.trnsprnt{
+
+    background: transparent;
+
+} */
+
+.section4 .card {
+  padding: 0;
+
+  height: 400px;
+}
+
+.section4 img {
+  width: 100%;
+
+  height: 100%;
+
+  object-fit: cover;
+}
+
+.section4 .card-img {
+  min-height: 400px;
+
+  height: 100%;
+}
+
+.section4 .card-wrapper {
+  padding: 4rem 2rem;
+
+  width: 100%;
+
+  height: 400px;
+}
+
+.section4 .cardbg1 {
+  background: #d7edd8;
+
+  height: auto;
+
+  display: flex;
+
+  justify-content: center;
+
+  flex-direction: column;
+
+  border-radius: 0;
+}
+
+.section4 .cardbg2 {
+  background: #f6f6f6;
+
+  height: auto;
+
+  display: flex;
+
+  justify-content: center;
+
+  flex-direction: column;
+
+  border-radius: 0;
+}
+
+.section4 .main-title {
+  color: #fff3f3;
+}
+
+.size1 {
+  font-size: 52px;
+}
+
+.size2 {
+  font-size: 1.8rem;
+
+  line-height: 1.3;
+}
+
+.size3 {
+  font-size: 4.2rem;
+}
+
+.a {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  position: relative;
+  background-color: #ffffff;
+}
+.b{
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/mbr.jpg);
+    position: fixed;
+    top: 0;
+    left:0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    z-index: -1;
+   
+}
+.c {
+    margin-top: 100vh;
+  position: relative;
+  height: 30vh;
+  /* z-index: 100; */
+  background-color: white;
+}
+.abc{
+    height: 1rem;
+}
+.colore{
+    background-color: white;
+ }/*
+.bt {
+  background: linear-gradient(to right, #3D626C, white);
+  background-size: 200% 100%;
+  transition: background-position 0.8s;
+}
+
+.bt:hover {
+  background-color: transparent;
+  background-position: -100% 0;
+} */
+.imge{
+  cursor: pointer;
+}
+.imge:hover{
+color: #ffffff;
+box-shadow: #ffffff;
+}
+.q{
+  margin-top: 5rem;
+}
+.cl{
+
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
